@@ -12,8 +12,121 @@
             "homepage": "https://www.koolphp.net"
         }
     ],
-    "require":
-    {
+	"repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/cliqued-media/core"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/cliqued-media/amazing"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/cliqued-media/appstack"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/cliqued-media/barcode"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/cliqued-media/bootstrap3"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/cliqued-media/bootstrap4"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/cliqued-media/cache"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/cliqued-media/chartjs"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/cliqued-media/charttable"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/cliqued-media/cleandata"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/cliqued-media/cloudexport"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/cliqued-media/codeigniter"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/cliqued-media/cube"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/cliqued-media/d3"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/cliqued-media/datagrid"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/cliqued-media/drilldown"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/cliqued-media/excel"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/cliqued-media/export"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/cliqued-media/inputs"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/cliqued-media/instant"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/cliqued-media/laravel"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/cliqued-media/yii2"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/cliqued-media/morris_chart"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/cliqued-media/pivot"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/cliqued-media/querybuilder"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/cliqued-media/sparklines"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/cliqued-media/statistics"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/cliqued-media/visualquery"
+        }
+    ],
+    "require": {
 		"php":">=5.4",
 		"cliqued-media/core": "1.0.0",
 		"cliqued-media/amazing": "1.0.0",
