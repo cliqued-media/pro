@@ -1,6 +1,6 @@
 {
     "name": "cliqued-media/pro",
-    "version":"6.0.6",
+    "version":"1.0.0",
     "description": "An Open Source PHP Reporting Framework for easier and faster report delivery.",
     "keywords": ["php reporting framework","php reporting tools","data processing","data visualization","charts and graphs"],
     "homepage": "https://www.koolreport.com",
